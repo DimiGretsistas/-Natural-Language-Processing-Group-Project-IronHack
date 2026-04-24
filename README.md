@@ -58,8 +58,8 @@ Jupyter Notebook
 
 ## Final Results (Top 5 Models)
 
-| Rank | Model | Approach | Test Accuracy |
-|------|------|----------|--------------|
+| Rank | Model | Test Accuracy |
+|------|------|--------------|
 | 🥇 | Triple Hybrid Ensemble | 95.58% |
 | 🥈 | Naive Bayes + TF-IDF + Stemming + N-gram | 94.28% |
 | 🥉 | SVM + TF-IDF + Stemming + N-gram | 93.53% |
