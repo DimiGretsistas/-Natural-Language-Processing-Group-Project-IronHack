@@ -33,16 +33,16 @@ This project builds a fake news classifier trained on news headlines. We compare
 ## 📂 Project Structure
 
 ├── Models/
-│   ├── BoW-Models & Word2Vec-Model.ipynb     # Bag of Words + Word2Vec models
-│   ├── DD_V3.ipynb                           # Model notebook
-│   ├── Group2.csv                           # Dataset / data file
-│   ├── Preprocessing+final_model.ipynb      # Preprocessing + final model pipeline
-│   └── embeddings_fasttext.ipynb            # FastText embeddings model
+│   ├── BoW-Models & Word2Vec-Model.ipynb
+│   ├── DD_V3.ipynb           
+│   ├── Group2.csv
+│   ├── Preprocessing+final_model.ipynb
+│   └── embeddings_fasttext.ipynb
 │
 ├── Presentation Slides/
-│   └── Fake News Detection Presentation.pptx # Project presentation
+│   └── Fake News Detection Presentation.pptx
 │
-└── README.md                                # Project documentation
+└── README.md
 
 
 ---
