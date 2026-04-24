@@ -31,7 +31,7 @@ This project builds a fake news classifier trained on news headlines. We compare
 ---
 
 ## 📂 Project Structure
-
+```text
 ├── Models/
 │   ├── BoW-Models & Word2Vec-Model.ipynb
 │   ├── DD_V3.ipynb           
@@ -43,7 +43,7 @@ This project builds a fake news classifier trained on news headlines. We compare
 │   └── Fake News Detection Presentation.pptx
 │
 └── README.md
-
+```
 
 ---
 
