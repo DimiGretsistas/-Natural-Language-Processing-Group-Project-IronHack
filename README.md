@@ -48,11 +48,11 @@ This project builds a fake news classifier trained on news headlines. We compare
 ---
 
 ## ⚙️ Tech Stack
-Python
-NumPy
-Pandas
-Matplotlib
-Jupyter Notebook 
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- Jupyter Notebook 
 
 ---
 
